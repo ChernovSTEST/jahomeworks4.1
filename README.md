@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/k71kgn99s25wp5j3?svg=true)](https://ci.appveyor.com/project/ChernovSTEST/jahomeworks4-1)
 
-![example workflow](https://github.com/ChernovSTEST/jahomeworks4.1/actions/workflows/grable.yml/badge.svg)
+[![Java CI with Gradle](https://github.com/ChernovSTEST/jahomeworks4.1/actions/workflows/grable.yml/badge.svg)](https://github.com/ChernovSTEST/jahomeworks4.1/actions/workflows/grable.yml)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
